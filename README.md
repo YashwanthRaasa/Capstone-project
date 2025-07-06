@@ -43,7 +43,7 @@
      Visualized pricing using Bokeh:
         1. Model 1 vs Model 2 pricing against occupancy
         2. Time-series price simulation for a parking lot
-        3. Interactive visual dashboards (Colab-compatible
+        3. Interactive visual dashboards (Colab-compatible)
      These helped justify why Model 2 pricing was more responsive and fair.
   # Conclusion
      This capstone demonstrates how dynamic pricing systems can be 
